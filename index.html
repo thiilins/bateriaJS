@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bateria</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    " />
+  </head>
+  <body>
+    <h1>Bateria</h1>
+    <main>
+      <div class="keys">
+        <div class="keys-bl">
+          <button data-key="keyq" class="key">Q</button>
+          <button data-key="keyw" class="key">W</button>
+          <button data-key="keye" class="key">E</button>
+        </div>
+        <div class="keys-bl">
+          <button data-key="keya" class="key">A</button>
+          <button data-key="keys" class="key">S</button>
+          <button data-key="keyd" class="key">D</button>
+        </div>
+        <div class="keys-bl">
+          <button data-key="keyz" class="key">Z</button>
+          <button data-key="keyx" class="key">X</button>
+          <button data-key="keyc" class="key">C</button>
+        </div>
+      </div>
+      <div class="composer">
+        <input type="text" id="input" placeholder="Faça sua composição..." />
+        <button id="play">Play <i class="fas fa-play"></i></button>
+      </div>
+    </main>
+    <audio id="s_keyq" src="sounds/keyq.wav"></audio>
+    <audio id="s_keyw" src="sounds/keyw.wav"></audio>
+    <audio id="s_keye" src="sounds/keye.wav"></audio>
+    <audio id="s_keya" src="sounds/keya.wav"></audio>
+    <audio id="s_keys" src="sounds/keys.wav"></audio>
+    <audio id="s_keyd" src="sounds/keyd.wav"></audio>
+    <audio id="s_keyz" src="sounds/keyz.wav"></audio>
+    <audio id="s_keyx" src="sounds/keyx.wav"></audio>
+    <audio id="s_keyc" src="sounds/keyc.wav"></audio>
+
+    <script src="script.js"></script>
+  </body>
+</html>

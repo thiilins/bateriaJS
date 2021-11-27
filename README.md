@@ -1,2 +1,2 @@
 ﻿# bateria-htmlJS
-https://tgbr.site/bateria_js
+https://tgpro.site/bateria_js

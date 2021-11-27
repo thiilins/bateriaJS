@@ -1,2 +1,2 @@
 ﻿# bateria-htmlJS
-https://td-bateria-js.surge.sh/
+https://tgbr.site/bateria_js

@@ -3,7 +3,7 @@
 
 &#xa0;
 
-<a href="https://tgpro.site/bateria_js">Demo</a>
+<a href="https://td-bateria-js.surge.sh/">Demo</a>
 
 </div>
 

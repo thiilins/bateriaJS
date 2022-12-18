@@ -1,4 +1,4 @@
-﻿<div align="center" id="top"> 
+﻿<div align="center" id="top">
   <img src="./.github/cover.png" alt="Bateria HtmlJS" />
 
 &#xa0;
@@ -7,7 +7,7 @@
 
 </div>
 
-<h1 align="center">Bateria HtmlJS</h1>
+<h1 align="center">Bateria HtmlJS - [Arquivado]</h1>
 
 <p align="center">
   <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/bateria-htmljs?color=56BEB8">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;

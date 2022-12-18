@@ -10,13 +10,13 @@
 <h1 align="center">Bateria HtmlJS - [Arquivado]</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/bateria-htmljs?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/bateria-htmljs?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/bateria-htmljs?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/bateria-htmljs?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
 
 </p>
 

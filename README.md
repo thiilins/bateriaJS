@@ -1,5 +1,5 @@
 ﻿<div align="center" id="top">
-  <img src="./.github/cover.png" alt="Bateria HtmlJS" />
+  <img src="./.github/assets/cover.png" alt="Bateria HtmlJS" />
 
 &#xa0;
 
@@ -10,13 +10,13 @@
 <h1 align="center">Bateria HtmlJS - [Arquivado]</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/bateria-htmljs?color=56BEB8&style=for-the-badge">
+  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
 
 </p>
 
@@ -58,10 +58,10 @@ Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.co
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/thiilins/bateria-htmljs
+$ git clone https://github.com/thiilins/bateriaJS
 
 # Entre na pasta
-$ cd bateria-htmljs
+$ cd bateriaJS
 
 #iniciar via live server
 

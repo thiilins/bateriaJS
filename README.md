@@ -1,79 +1,73 @@
-﻿<div align="center" id="top">
-  <img src="./.github/assets/cover.png" alt="Bateria HtmlJS" />
+<div align="center" id="top">
 
-&#xa0;
-
-<a href="https://td-bateria-js.surge.sh/">Demo</a>
+[🇧🇷 Português](./README.md) | [🇺🇸 English](./README_EN.md) | [🇪🇸 Español](./README_ES.md)
 
 </div>
 
-<h1 align="center">Bateria HtmlJS - [Arquivado]</h1>
+# Bateria HtmlJS - [Arquivado]
 
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
+<div align="center">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
+![Cover](./.github/assets/cover.png)
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
+[Ver Demonstração](https://td-bateria-js.surge.sh/)
 
-  <img alt="Licença" src="https://img.shields.io/github/license/thiilins/bateriaJS?color=FF5858&style=for-the-badge">
+![Principal linguagem do projeto](https://img.shields.io/github/languages/top/thiilins/bateriaJS?color=FF5858&style=for-the-badge)
+![Quantidade de linguagens utilizadas](https://img.shields.io/github/languages/count/thiilins/bateriaJS?color=FF5858&style=for-the-badge)
+![Tamanho do repositório](https://img.shields.io/github/repo-size/thiilins/bateriaJS?color=FF5858&style=for-the-badge)
+![Licença](https://img.shields.io/github/license/thiilins/bateriaJS?color=FF5858&style=for-the-badge)
 
-</p>
+</div>
 
-<p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/thiilins" target="_blank">Autor</a>
-</p>
+## 📖 Índice
 
-<br>
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias](#-tecnologias)
+- [Pré requisitos](#-pré-requisitos)
+- [Como Usar](#-como-usar)
+- [Licença](#-licença)
+- [Contato](#-contato)
 
-## :dart: Sobre
+## 📘 Sobre o Projeto
 
 Projeto desenvolvido para prática de manipulação de DOM usando Javascript.
 
-## :sparkles: Funcionalidades
+## 🚀 Funcionalidades
 
-:heavy_check_mark: Reponsivo\
-:heavy_check_mark: Reconhecimento de clique e Teclado;\
-:heavy_check_mark: Gerador de Melodia;
+- **Reponsivo:** Adaptação para todos os dispositivos.
+- **Reconhecimento:** Identifica cliques e teclas do teclado.
+- **Gerador de Melodia:** Cria sequências melódicas.
 
-## :rocket: Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
+## 🛠 Tecnologias
 
 - HTML
 - CSS
 - JavaScript
 
-## :white_check_mark: Pré requisitos
+## 📜 Pré-requisitos
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua máquina.
 
-## :checkered_flag: Começando
+## 🚀 Como Usar
 
 ```bash
-# Clone este repositório
-$ git clone https://github.com/thiilins/bateriaJS
+# Clone este repositório:
+git clone https://github.com/thiilins/bateriaJS.git
 
-# Entre na pasta
-$ cd bateriaJS
+# Acesse o diretório do projeto:
+cd bateriaJS
 
-#iniciar via live server
-
-# O app vai inicializar em <http://localhost:8080>
+# Inicie via live server:
+# O aplicativo será iniciado em: `http://localhost:8080`
 ```
 
-## :memo: Licença
+## 📜 Licença
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE.md) para obter mais detalhes.
 
-Feito com :heart: por <a href="https://github.com/thiilins" target="_blank">Thiago Lins</a>
+## 📬 Contato
 
-&#xa0;
-
-<a href="#top">Voltar para o topo</a>
+Feito com ❤️ por [Thiago Lins](https://github.com/thiilins). 
+Para sugestões, feedback ou dúvidas, abra uma [issue](https://github.com/thiilins/bateriaJS/issues) ou entre em contato através do [perfil no GitHub](https://github.com/thiilins).
+<p align="right">(<a href="#top">Voltar
